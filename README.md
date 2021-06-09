@@ -9,7 +9,7 @@
 Trip planner with checking 5 days weather forcast and updating description of cities that has been choosen from dropdown menu and Javascript Continuous Integration and Continuous Deployment with Git
 
 # 🛠 Technologies
-Front-End Back-End Deployment HTML5 REactjs and Nodejs. use AWC cloud provider to live access from anywhere.
+Front-End Back-End Deployment HTML5, JavaScript, CSS3,Postman,Express, Fetching API, Reactjs and Nodejs. use AWC cloud provider to live access from anywhere.
 
 # ⚖️ Methodology
 Reactjs and Nodejs both to challenge myself with learning a new framework and because reactjs is the ideal solution for weather forcast and fetch description using API metaweather.
