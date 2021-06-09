@@ -1,4 +1,4 @@
-# travelplanner
+# TravelPlanner
 
 ![Screenshot (172)](https://user-images.githubusercontent.com/76454035/121389116-50a7e080-c909-11eb-94fd-ef69c693f1f0.png)
 
