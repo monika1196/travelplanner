@@ -1,0 +1,86 @@
+.all-forcasts {
+    display: flex;
+    flex-direction: column;
+    margin-top: 120px;
+    margin-left: 20px;
+    opacity: 1;
+    color: white;
+    font-size: x-large;
+
+}
+.location-style {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    background-color: transparent;
+   
+}
+.location-style h4 {
+    margin-left: 5px;
+    text-transform: capitalize;
+}
+
+.location-style h3, h4 {
+    color: white;
+    font-size: x-large;
+}
+
+.button {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin :-20px 0px 0px 650px;
+     cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-transform: uppercase;
+    
+}
+
+.button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.desp {
+    display: flex;
+    margin-bottom: 50px;
+
+    
+}
+.desp p {
+    
+     font-size:x-large;
+     text-align: center;
+     text-align: justify;
+     color: white;
+     margin-left: 50px;
+     margin-top: 130px;
+     margin-bottom: -100px;
+}
+
+.text_input {
+    font-size: 16px;
+    margin: 4px 2px;
+    padding: 8px 32px
+}
+
+.mainClass {
+     height: 100vh;
+     background-image: url("../components/giphy\ \(3\).gif");
+     background-repeat: no-repeat ;
+     background-position: center ;
+      background-size: cover;
+      padding: 20px;
+}
+.descImg {
+    width: 400px;
+    height: 250px;
+    object-fit: cover;
+    margin-top: 130px;
+    margin-bottom: -100px;
+}
